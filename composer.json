@@ -1,5 +1,6 @@
 {
     "name": "smart-push/brevo-php",
+    "minimum-stability": "dev",
     "description": "Official Brevo provided RESTFul API V3 php library",
     "keywords": [
         "brevo",
